@@ -1,5 +1,6 @@
 # Ashish Jayamohan - UCSD
-## Sample Work
+## Work
+- [Resume](https://ashishjayamohan.github.io/resume.pdf)
 - [Implementation and Assessment of Teamwork in Computer Science Education](http://makecscount.com/Jayamohan2021.pdf)
 - [CSE 15L Lab Reports](https://ashishjayamohan.github.io/cse15l-lab-reports/)
 	- [Lab 0 Report](https://ashishjayamohan.github.io/cse15l-lab-reports/Lab0.html)
@@ -8,7 +9,42 @@
 	- [Lab 3 Report](https://ashishjayamohan.github.io/cse15l-lab-reports/Lab3.html)
 	- [Lab 4 Report](https://ashishjayamohan.github.io/cse15l-lab-reports/Lab4.html)
 - [CSE 12 Exam Notes](https://ashishjayamohan.github.io/exam2.pdf)
-- [Resume](https://ashishjayamohan.github.io/resume.pdf)
+- Discrete Math
+	- [Homework 1](https://ashishjayamohan.github.io/discmath/HW1.html)
+	- [Homework 2](https://ashishjayamohan.github.io/discmath/HW2.html)
+	- [Homework 3](https://ashishjayamohan.github.io/discmath/HW3.html)
+	- [Midterm Exam](https://ashishjayamohan.github.io/discmath/Midterm.html)
+	- [Final Exam](https://ashishjayamohan.github.io/discmath/Final.html)
+- Statistics
+	- [Lesson 1.1](https://ashishjayamohan.github.io/stats/1.1.html)
+	- [Lesson 1.3 - 1.5](https://ashishjayamohan.github.io/stats/1.3-1.5.html)
+	- [Lesson 1.3E - 1.5E](https://ashishjayamohan.github.io/stats/1.3E-1.5E.html)
+	- [Lesson 1.5E-2.4](https://ashishjayamohan.github.io/stats/1.5E-2.4.html)
+	- [Lesson 3.1](https://ashishjayamohan.github.io/stats/3.1.html)
+	- [Lesson 3.3](https://ashishjayamohan.github.io/stats/3.3.html)
+	- [Lesson 3.5](https://ashishjayamohan.github.io/stats/3.5.html)
+	- [Lesson 4.1](https://ashishjayamohan.github.io/stats/4.1.html)
+	- [Lesson 4.1](https://ashishjayamohan.github.io/stats/4.1.html)
+	- [Lesson 5.1](https://ashishjayamohan.github.io/stats/5.1.html)
+	- [Lesson 5.3](https://ashishjayamohan.github.io/stats/5.3.html)
+	- [Midterm Review](https://ashishjayamohan.github.io/stats/Midterm-Review-2.html)
+	- [Midterm Exam](https://ashishjayamohan.github.io/stats/Midterm-Solutions.html)
+- Calculus II
+	- [Lesson 5.8](https://ashishjayamohan.github.io/calculus/5.8.html)
+	- [Lesson 5.8E - 7.1](https://ashishjayamohan.github.io/calculus/5.8E-7.1.html)
+	- [Lesson 6.2 - 8.1](https://ashishjayamohan.github.io/calculus/6.2-8.1.html)
+	- [Lesson 6.2E](https://ashishjayamohan.github.io/calculus/6.2E.html)
+	- [Lesson 7.2](https://ashishjayamohan.github.io/calculus/7.2.html)
+	- [Lesson 7.2E - 7.3](https://ashishjayamohan.github.io/calculus/7.2E-7.3.html)
+	- [Lesson 7.4](https://ashishjayamohan.github.io/calculus/7.4.html)
+	- [Lesson 7.5](https://ashishjayamohan.github.io/calculus/7.5.html)
+	- [Lesson 7.5E - 7.6](https://ashishjayamohan.github.io/calculus/7.5E-7.6.html)
+	- [Lesson 8.4](https://ashishjayamohan.github.io/calculus/8.4.html)
+	- [Lesson 9.1](https://ashishjayamohan.github.io/calculus/9.1.html)
+	- [Lesson 9.2](https://ashishjayamohan.github.io/calculus/9.2.html)
+	- [Lesson 9.5](https://ashishjayamohan.github.io/calculus/9.5.html)
+	- [Lesson 9.7 - 9.8](https://ashishjayamohan.github.io/calculus/9.7-9.8.html)
+	- [Midterm Exam](https://ashishjayamohan.github.io/calculus/midterm.html)
 
 ## Contact Me
 - [ashishjayamohan@gmail.com](mailto:ashishjayamohan@gmail.com) or [ajayamohan@ucsd.edu](mailto:ajayamohan@ucsd.edu)
