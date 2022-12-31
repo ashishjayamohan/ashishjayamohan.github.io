@@ -1,1 +1,0 @@
-$$V=2 \cdot \pi \cdot r \cdot A$$
