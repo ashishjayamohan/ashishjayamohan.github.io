@@ -9,11 +9,13 @@
 	- [Lab 3 Report](https://ashishjayamohan.github.io/cse15l-lab-reports/Lab3.html)
 	- [Lab 4 Report](https://ashishjayamohan.github.io/cse15l-lab-reports/Lab4.html)
 - [CSE 12 Exam Notes](https://ashishjayamohan.github.io/files/exam2.pdf)
-- [Discrete Math](https://ashishjayamohan.github.io/discrete-math.md)
+- [Discrete Math](https://ashishjayamohan.github.io/discrete-math.html)
 	- [Homework 1](https://ashishjayamohan.github.io/files/discrete-math/hw1.pdf)
 	- [Homework 2](https://ashishjayamohan.github.io/files/discrete-math/hw2.pdf)
 	- [Midterm Solutions](https://ashishjayamohan.github.io/files/discrete-math/midterm.pdf)
 	- [Final Solutions](https://ashishjayamohan.github.io/files/discrete-math/final.pdf)
+- LeetCode Problem Solutions
+	- [452 - Minimum Number of Arrows to Burst Balloons](https://ashishjayamohan.github.io/files/general/452.html)
 
 ## Contact Me
 - [ashishjayamohan@gmail.com](mailto:ashishjayamohan@gmail.com) or [ajayamohan@ucsd.edu](mailto:ajayamohan@ucsd.edu)
