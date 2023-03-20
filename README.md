@@ -1,6 +1,6 @@
 # Ashish Jayamohan - UCSD
 ## Work
-- [Resume](https://ashishjayamohan.github.io/files/resume.pdf)
+- [Resume](https://ashishjayamohan.github.io/files/general/resume.pdf)
 - [Implementation and Assessment of Teamwork in Computer Science Education](http://makecscount.com/Jayamohan2021.pdf)
 - [CSE 15L Lab Reports](https://ashishjayamohan.github.io/cse15l-lab-reports/)
 	- [Lab 0 Report](https://ashishjayamohan.github.io/cse15l-lab-reports/Lab0.html)
@@ -8,7 +8,7 @@
 	- [Lab 2 Report](https://ashishjayamohan.github.io/cse15l-lab-reports/Lab2.html)
 	- [Lab 3 Report](https://ashishjayamohan.github.io/cse15l-lab-reports/Lab3.html)
 	- [Lab 4 Report](https://ashishjayamohan.github.io/cse15l-lab-reports/Lab4.html)
-- [CSE 12 Exam Notes](https://ashishjayamohan.github.io/files/exam2.pdf)
+- [CSE 12 Exam Notes](https://ashishjayamohan.github.io/files/exam2.pdf) (Revising)
 - [Discrete Math](https://ashishjayamohan.github.io/discrete-math.html)
 	- [Homework 1](https://ashishjayamohan.github.io/files/discrete-math/hw1.pdf)
 	- [Homework 2](https://ashishjayamohan.github.io/files/discrete-math/hw2.pdf)
