@@ -8,7 +8,7 @@
 	- [Lab 2 Report](https://ashishjayamohan.github.io/cse15l-lab-reports/Lab2.html)
 	- [Lab 3 Report](https://ashishjayamohan.github.io/cse15l-lab-reports/Lab3.html)
 	- [Lab 4 Report](https://ashishjayamohan.github.io/cse15l-lab-reports/Lab4.html)
-- [CSE 12 Exam Notes](https://ashishjayamohan.github.io/files/exam2.pdf) (Revising)
+- [Project Pluto Research Log](https://ashishjayamohan.github.io/files/general/sf.pdf)
 - [Discrete Math](https://ashishjayamohan.github.io/discrete-math.html)
 	- [Homework 1](https://ashishjayamohan.github.io/files/discrete-math/hw1.pdf)
 	- [Homework 2](https://ashishjayamohan.github.io/files/discrete-math/hw2.pdf)
