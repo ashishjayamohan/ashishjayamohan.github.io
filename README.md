@@ -3,6 +3,7 @@
 - [Resume](https://ashishjayamohan.github.io/files/general/resume.pdf)
 - [Implementation and Assessment of Teamwork in Computer Science Education](http://makecscount.com/Jayamohan2021.pdf)
 - [Wet Lab Fluorescence Spectroscopy for Detection of Life in Martian Soil](https://ashishjayamohan.github.io/files/general/poster.pdf)
+- [Adding Zemax Transformation and Output Support for SOC-210](https://ashishjayamohan.github.io/files/general/Jayamohan.Ashish.2023.pdf)
 - [CSE 15L Lab Reports](https://ashishjayamohan.github.io/cse15l-lab-reports/)
 	- [Lab 0 Report](https://ashishjayamohan.github.io/cse15l-lab-reports/Lab0.html)
 	- [Lab 1 Report](https://ashishjayamohan.github.io/cse15l-lab-reports/Lab1.html)
