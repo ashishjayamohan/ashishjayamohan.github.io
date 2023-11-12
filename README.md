@@ -1,6 +1,6 @@
 # Ashish Jayamohan - UCSD
 ## Work
-- [Resume](https://ashishjayamohan.github.io/files/general/resume.pdf)
+- [Resume](https://ashishjayamohan.github.io/files/general/Resume.pdf)
 - [Implementation and Assessment of Teamwork in Computer Science Education](http://makecscount.com/Jayamohan2021.pdf)
 - [Wet Lab Fluorescence Spectroscopy for Detection of Life in Martian Soil](https://ashishjayamohan.github.io/files/general/poster.pdf)
 - [Adding Zemax Transformation and Output Support for SOC-210](https://ashishjayamohan.github.io/files/general/Jayamohan.Ashish.2023.pdf)
@@ -16,21 +16,10 @@
 	- [Homework 2](https://ashishjayamohan.github.io/files/discrete-math/hw2.pdf)
 	- [Midterm Solutions](https://ashishjayamohan.github.io/files/discrete-math/midterm.pdf)
 	- [Final Solutions](https://ashishjayamohan.github.io/files/discrete-math/final.pdf)
- - Statistics
-	- [Lesson 1](https://ashishjayamohan.github.io/files/statistics/1.1.pdf)
-	- [Lesson 2](https://ashishjayamohan.github.io/files/statistics/2.pdf)
-	- [Lesson 3](https://ashishjayamohan.github.io/files/statistics/3.pdf)
-	- [Lesson 4](https://ashishjayamohan.github.io/files/statistics/4.pdf)
-	- [Lesson 5](https://ashishjayamohan.github.io/files/statistics/5.pdf)
-	- [Lesson 6](https://ashishjayamohan.github.io/files/statistics/6.pdf)
-	- [Lesson 7](https://ashishjayamohan.github.io/files/statistics/7.pdf)
-	- [Lesson 8](https://ashishjayamohan.github.io/files/statistics/8.pdf)
-	- [Lesson 9](https://ashishjayamohan.github.io/files/statistics/9.pdf)
-	- [Lesson 10](https://ashishjayamohan.github.io/files/statistics/10.pdf)
-	- [Midterm Review](https://ashishjayamohan.github.io/files/statistics/midtermrev.pdf)
-	- [Midterm Solutions](https://ashishjayamohan.github.io/files/statistics/midterm.pdf)
+ - [Statistics](https://ashishjayamohan.github.io/statistics.html)
 - LeetCode Problem Solutions
 	- [452 - Minimum Number of Arrows to Burst Balloons](https://ashishjayamohan.github.io/files/general/452.html)
+	- [2934 - Minimum Operations to Maximize Last Elements in Arrays](https://ashishjayamohan.github.io/files/general/2934.html)
 
 ## Contact Me
 - [ashishjayamohan@gmail.com](mailto:ashishjayamohan@gmail.com) or [ajayamohan@ucsd.edu](mailto:ajayamohan@ucsd.edu)
