@@ -1,4 +1,4 @@
-# Ashish Jayamohan {fold.23}
+# Ashish Jayamohan {dot}
 ## Work
 - [Apache Pinot](https://github.com/apache/pinot/commits/master/?author=ashishjayamohan)
 - [Startree](https://www.globenewswire.com/news-release/2024/11/20/2984361/0/en/StarTree-Unveils-New-Features-to-Tackle-Data-Management-and-Security-Challenges-for-Scaling-Real-Time-Analytics.html) (Performance Manager)
