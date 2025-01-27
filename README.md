@@ -5,7 +5,7 @@ i'm ashish jayamohan, a student at uc san diego. i'm interested, broadly, in com
 ## work
 - [apache pinot](https://github.com/apache/pinot/commits/master/?author=ashishjayamohan)
 - [startree](https://www.globenewswire.com/news-release/2024/11/20/2984361/0/en/StarTree-Unveils-New-Features-to-Tackle-Data-Management-and-Security-Challenges-for-Scaling-Real-Time-Analytics.html) (performance manager)
-- [surface Optics](https://surfaceoptics.com/bsdf-brdf-btdf-review-of-measurement-approaches/) ([ucsd article feature](https://cse.ucsd.edu/about/news/celebrating-10-years-stellar-student-interns))
+- [surface optics](https://surfaceoptics.com/bsdf-brdf-btdf-review-of-measurement-approaches/) ([ucsd article feature](https://cse.ucsd.edu/about/news/celebrating-10-years-stellar-student-interns))
 - [vie healthcare (acquired by spendmend)](https://www.spendmend.com/spendmend-completes-acquisition-of-vie-healthcare-consulting/)
 - [tread](https://ashishjayamohan.github.io/tread.web/) ([github](https://github.com/ashishjayamohan/Tread))
 - [implementation and assessment of teamwork in computer science education](http://makecscount.com/Jayamohan2021.pdf)
