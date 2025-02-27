@@ -1,6 +1,6 @@
 # ashish jayamohan {dot}
 ## about me
-i'm ashish jayamohan, a student at uc san diego. i'm interested, broadly, in computer science, mathematics, pure sciences, and the intersection of these fields. recently, i've been interested in databases and distributed systems at large. sometimes, i think i have profound thoughts and write about them [here](https://medium.com/@ashishjayamohan).
+i'm ashish jayamohan, a student at uc san diego. i'm interested, broadly, in computer science, mathematics, pure sciences, and the intersection of these fields. recently, i've been interested in databases and distributed systems at large.
 
 ## work
 - [apache pinot](https://github.com/apache/pinot/commits/master/?author=ashishjayamohan)
@@ -15,9 +15,12 @@ i'm ashish jayamohan, a student at uc san diego. i'm interested, broadly, in com
 - [project pluto research log](https://ashishjayamohan.github.io/files/general/sf.pdf)
 - [discrete math](https://ashishjayamohan.github.io/discrete-math.html)
 - [statistics](https://ashishjayamohan.github.io/statistics.html)
-- interesting problems
-	- [452 - minimum number of arrows to burst balloons](https://ashishjayamohan.github.io/files/general/452.html)
-	- [2934 - minimum operations to maximize last elements in arrays](https://ashishjayamohan.github.io/files/general/2934.html)
+
+## writing
+- [learnings from a year of college](https://ashishjayamohan.github.io/files/general/firstyear.html)
+- [learnings from a second year of college](https://ashishjayamohan.github.io/files/general/secondyear.html)
+- [452 - minimum number of arrows to burst balloons](https://ashishjayamohan.github.io/files/general/452.html)
+- [2934 - minimum operations to maximize last elements in arrays](https://ashishjayamohan.github.io/files/general/2934.html)
 
 ## contact me
 - [ashishjayamohan@gmail.com](mailto:ashishjayamohan@gmail.com) or [ajayamohan@ucsd.edu](mailto:ajayamohan@ucsd.edu)

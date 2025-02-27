@@ -1,0 +1,10 @@
+# learnings from a year of college
+
+i recently finished my first year of college and am currently wrapping up my summer, so i thought it would be as good a time as ever to look back on this past year and sum up my learnings. anyways, here goes.
+
+- **longer hours do (somehow) pay off.** it's a popularized notion that we should somehow work "smarter" rather than "harder." whilst there's certainly truth to that statement, working harder and working longer hours are often the only way to solve a problem. this might change between industry and college, but this is a pattern i've noticed that extends far beyond just schoolwork. don't be afraid to put in the hours, because sometimes that's the only way through it.
+- **be gritty.** i was probably 11 or 12 years old when i first read angela duckworth's book on grit. it didn't change my life then, but the principles have changed my life more than 6 years later. grit is perhaps one of the most important personal characteristics you can possess. what i've learned in the last year is that grit is entirely trainable and buildable. granted, building grit isn't easy (but who really thought that?), but it changed my life.
+- **timing is equally important as content.** it might be the most important thing i've learned all year, but when you say something is just as important as the thing you have to say. the most notable application of this practice has been in the workplace, where more frequent communication is valued vastly higher than simply doing a ton of secret work and suddenly revealing it all at once. there are some exceptions to this, but such is life.
+- **memento mori.** life's unfair. we're all inherently flawed people. the romans had aurigas to remind them of their humanity, but we don't. i suppose we all need our own shoulder aurigas to remind us, should we forget, that we are still human.
+
+i guess that's it. there's probably more that i learned, but these were the ones that were most notable (and the ones i remembered). maybe i'll revisit this in a year, maybe i won't. we'll see. au revoir.
