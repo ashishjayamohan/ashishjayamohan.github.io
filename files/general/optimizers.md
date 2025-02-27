@@ -43,9 +43,9 @@ to complete step 2 of the above process, i implemented two functions - `dateTrun
 it turns out that dealing with timezones is pretty hard. hard enough that it took me 3 months (and a lot of help from johan adami) to determine that the best course of action was to skip over this functionality right now. i'm still experimenting on how to make timezones work for this `datetrunc` optimizer. i'll get it one day, but for now it's amazing for 98% of use cases.
 
 ### conclusion
-i might be young and naive — maybe even a little reckless in my enthusiasm — but i know one thing for certain: i’ve fallen in love with systems optimization. there’s something profoundly captivating about the idea that performance isn’t just about raw power — it’s about precision, adaptability, and balance. autotuning is more than just an engineering challenge, it’s a way to unlock the full potential of technology without forcing users to become experts themselves.
+i know i'm pretty young, but i know one thing for certain - i’ve fallen in love with systems optimization. there’s something profoundly captivating about the idea that performance isn’t just about raw power — it’s about precision, adaptability, and balance. autotuning is more than just an engineering challenge, it’s a way to unlock the full potential of technology without forcing users to become experts themselves.
 
-for too long, peak performance has been locked behind expertise, reserved for those who can navigate the labyrinth of configurations, heuristics, and trade-offs. but why should that be the case? the power of well-tuned systems shouldn’t be a privilege. it should be accessible, intuitive, and available to everyone.
+for too long, peak performance has been locked behind expertise, reserved for those who can navigate the labyrinth of configurations and trade-offs. but why's that be the case? the power of well-tuned systems shouldn’t be a privilege. it should be accessible and intuitively available to everyone.
 
 that’s the future I want to build. a future where systems don’t just work—they optimize themselves, adapting in real time to deliver the best possible experience without human intervention. a future where technology serves people, not the other way around.
 
