@@ -45,7 +45,7 @@ it turns out that dealing with timezones is pretty hard. hard enough that it too
 ### conclusion
 i know i'm pretty young, but i know one thing for certain - i’ve fallen in love with systems optimization. there’s something profoundly captivating about the idea that performance isn’t just about raw power — it’s about precision, adaptability, and balance. autotuning is more than just an engineering challenge, it’s a way to unlock the full potential of technology without forcing users to become experts themselves.
 
-for too long, peak performance has been locked behind expertise, reserved for those who can navigate the labyrinth of configurations and trade-offs. but why's that be the case? the power of well-tuned systems shouldn’t be a privilege. it should be accessible and intuitively available to everyone.
+for too long, peak performance has been locked behind expertise, reserved for those who can navigate the labyrinth of configurations or afford to outsource it. but why's that the case? the power of well-tuned systems shouldn’t be a privilege. it should be accessible and intuitively available to everyone.
 
 that’s the future I want to build. a future where systems don’t just work—they optimize themselves, adapting in real time to deliver the best possible experience without human intervention. a future where technology serves people, not the other way around.
 
