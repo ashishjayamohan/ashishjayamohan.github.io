@@ -4,7 +4,9 @@
 over the past year, i've been working on optimizers and autotuners for systems. specifically, i created the new [performance manager](https://startree.ai/resources/automate-real-time-operations) at startree and, more recently, worked on a [query optimizer for pinot](https://github.com/apache/pinot/pull/14385) that i find pretty exciting.
 
 ### performance manager
-let's start with startree's performance manager - a tool allowing users to discover possible optimizations for their pinot clusters given a query. prior to the performance manager, users had to have either a large amount of expertise about pinot hyperparameter tuning or the money to hire someone who did. performance manager was meant to bridge this gap and allow *every* customer to discover the power of pinot - not just the conglomerates and the billionaires. the manager also made it onto [a press release](https://www.globenewswire.com/news-release/2024/11/20/2984361/0/en/StarTree-Unveils-New-Features-to-Tackle-Data-Management-and-Security-Challenges-for-Scaling-Real-Time-Analytics.html), which i think is pretty fun.
+let’s start with startree’s performance manager - a tool allowing users to discover possible optimizations for their pinot clusters given a query. prior to the performance manager, users had to either have a large amount of expertise about pinot hyperparameter tuning or the money to hire someone who did. performance manager was meant to bridge this gap and allow every customer to discover the power of pinot - even organizations that are just getting started. the manager also made it onto [a press release](https://www.globenewswire.com/news-release/2024/11/20/2984361/0/en/StarTree-Unveils-New-Features-to-Tackle-Data-Management-and-Security-Challenges-for-Scaling-Real-Time-Analytics.html), which i think is pretty fun.
+
+performance manager is quite easy to use. you just begin with running your query. let’s try a simple query like this:
 
 **let's talk about how it works though.**
 
