@@ -10,3 +10,16 @@ img {
 code {
   border-radius: 12px;
 }
+
+pre code {
+  border-radius: 12px;
+  display: block;
+  padding: 1em;
+  overflow: auto;
+}
+
+pre {
+  border-radius: 12px;
+  background-color: #f6f8fa;
+  margin-bottom: 1em;
+}
