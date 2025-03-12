@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d3fb8ac69f29f7d4",
+        "id": "3439cf59871a1d94",
         "type": "tabs",
         "children": [
           {
-            "id": "7424ea5e64fd3fbb",
+            "id": "0ae9a37ad4f39d06",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "files/general/optimizers.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "optimizers"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5d8e4f4bb4771210",
@@ -168,9 +165,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7424ea5e64fd3fbb",
+  "active": "0ae9a37ad4f39d06",
   "lastOpenFiles": [
-    "files/general/2934.md",
-    "files/general/optimizers.md"
+    "files/general/optimizers.md",
+    "assets/optimized.png",
+    "assets/results.png",
+    "assets/query-console.png",
+    "assets/unnamed.png",
+    "files/general/2934.md"
   ]
 }
