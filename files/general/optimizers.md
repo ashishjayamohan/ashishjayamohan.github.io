@@ -75,3 +75,9 @@ for too long, peak performance has been locked behind expertise, reserved for th
 that’s the future I want to build. a future where systems don’t just work—they optimize themselves, adapting in real time to deliver the best possible experience without human intervention. a future where technology serves people, not the other way around.
 
 we’re on the cusp of something incredible, and i’m honestly excited to be a part of it.
+
+contact me: 
+- [ashishjayamohan@gmail.com](mailto:ashishjayamohan@gmail.com)
+- [twitter](https://x.com/ashishjayamohan)
+- [linkedin](http://linkedin.com/in/ashishjayamohan/)
+- [github](http://github.com/ashishjayamohan)
