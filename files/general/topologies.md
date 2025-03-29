@@ -11,12 +11,7 @@ in the leaf-spine architecture, leaf switches connect directly to servers, while
 - `m`: number of spine switches.
 - `r`: number of leaf switches.
 for a strict-sense non-blocking network, the condition is `m ≥ 2n−1`, meaning there are enough spine switches to handle all possible connections without blocking. however, in practice, data centers often use rearrangeably non-blocking configurations where `m ≥ n`, which is sufficient for most traffic patterns and reduces costs. this was a key takeaway from our lectures, highlighting the balance between performance and economics.
-
-| parameter   | description                                                                                                                                                                                                                                                                                                                                   |
-| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| stages      | ingress, middle, egress, each made up of crossbar switches.                                                                                                                                                                                                                                                                                   |
-| parameters  | defined by integers `n`, `m`, `r`:  <br>- `n`: number of sources feeding each of `r` ingress stage crossbar switches.  <br>- `m`: number of outlets per ingress switch and number of middle stage crossbar switches.  <br>- `r`: number of ingress and egress stage switches.                                                                 |
-| connections | - each ingress switch (`r` total) has `n` inputs, and `m` outputs.  <br>- middle stage has `m` switches, each with `r` inputs, `r` outputs.  <br>- each egress switch (`r` total) has `m` inputs, `n` outputs.  <br>- exactly one connection between each ingress and each middle stage switch, and each middle and each egress stage switch. |
+![](../../assets/table.png)
 scalability is a huge strength of clos networks - the ability of add more leaves or spines horizontally makes it ideal for large-scale data centers.
 
 ### ecmp-enhanced performance

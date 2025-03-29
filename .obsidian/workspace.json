@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "bd44b016ef81bff1",
+        "id": "6905758a4591c197",
         "type": "tabs",
         "children": [
           {
-            "id": "89dd187514585d0a",
+            "id": "b45de7c84005ba75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "files/general/topologies.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "topologies"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "5d8e4f4bb4771210",
@@ -165,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89dd187514585d0a",
+  "active": "b45de7c84005ba75",
   "lastOpenFiles": [
+    "assets/table.png",
     "files/general/toplogies.md",
     "assets/metrics.png",
     "assets/unnamed.png",
