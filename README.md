@@ -18,6 +18,7 @@ i'm ashish jayamohan, a student at uc san diego. i'm interested, broadly, in com
 
 ## writing
 - [systems optimizatons](https://ashishjayamohan.github.io/files/general/optimizers.html)
+- [clos topologies and ecmp](https://ashishjayamohan.github.io/files/general/topologies.html)
 - [learnings from a year of college](https://ashishjayamohan.github.io/files/general/firstyear.html)
 - [learnings from a second year of college](https://ashishjayamohan.github.io/files/general/secondyear.html)
 - [452 - minimum number of arrows to burst balloons](https://ashishjayamohan.github.io/files/general/452.html)
