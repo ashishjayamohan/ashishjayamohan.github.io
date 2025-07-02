@@ -1,12 +1,15 @@
-# ashish jayamohan {dot}
+# ashish jayamohan
 ## about me
-i'm ashish jayamohan, a student at uc san diego. i'm interested, broadly, in computer science, mathematics, pure sciences, and the intersection of these fields. recently, i've been interested in databases and distributed systems at large.
+i'm ashish jayamohan, a student at uc san diego. i'm interested, broadly, in computer science, mathematics, pure sciences, and the intersection of these fields. recently, i've been interested in databases and distributed systems at large. i'm currently at [amazon](https://www.amazon.com).
+
+you can reach me at `x@gmail.com` where `x = ashishjayamohan`
 
 ## work
 - [apache pinot](https://github.com/apache/pinot/commits/master/?author=ashishjayamohan)
 - [startree](https://www.globenewswire.com/news-release/2024/11/20/2984361/0/en/StarTree-Unveils-New-Features-to-Tackle-Data-Management-and-Security-Challenges-for-Scaling-Real-Time-Analytics.html) (performance manager)
 - [surface optics](https://surfaceoptics.com/bsdf-brdf-btdf-review-of-measurement-approaches/) ([ucsd article feature](https://cse.ucsd.edu/about/news/celebrating-10-years-stellar-student-interns))
 - [vie healthcare (acquired by spendmend)](https://www.spendmend.com/spendmend-completes-acquisition-of-vie-healthcare-consulting/)
+- [neural network from scratch](https://github.com/ashishjayamohan/neural-network)
 - [tread](https://ashishjayamohan.github.io/tread.web/) ([github](https://github.com/ashishjayamohan/Tread))
 - [implementation and assessment of teamwork in computer science education](http://makecscount.com/Jayamohan2021.pdf)
 - [wet lab fluorescence spectroscopy for detection of life in martian soil](https://ashishjayamohan.github.io/files/general/poster.pdf)
