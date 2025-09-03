@@ -5,6 +5,7 @@ i'm ashish jayamohan, a student at uc san diego. i'm interested, broadly, in com
 you can reach me at `x@gmail.com` where `x = ashishjayamohan`
 
 ## work
+- [systems saturday](https://systemssaturday.substack.com/)
 - [apache pinot](https://github.com/apache/pinot/commits/master/?author=ashishjayamohan)
 - [startree](https://www.globenewswire.com/news-release/2024/11/20/2984361/0/en/StarTree-Unveils-New-Features-to-Tackle-Data-Management-and-Security-Challenges-for-Scaling-Real-Time-Analytics.html) (performance manager)
 - [surface optics](https://surfaceoptics.com/bsdf-brdf-btdf-review-of-measurement-approaches/) ([ucsd article feature](https://cse.ucsd.edu/about/news/celebrating-10-years-stellar-student-interns))
