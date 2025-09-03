@@ -1,6 +1,6 @@
 # ashish jayamohan
 ## about me
-i'm ashish jayamohan, a student at uc san diego. i'm interested, broadly, in computer science, mathematics, pure sciences, and the intersection of these fields. recently, i've been interested in databases and distributed systems at large. i'm currently at [amazon](https://www.amazon.com).
+i'm ashish jayamohan, a student at uc san diego. i'm interested, broadly, in computer science, mathematics, pure sciences, and the intersection of these fields. recently, i've been interested in databases and distributed systems at large. i'm currently at [amazon](https://www.amazon.com). i also currently run a weekly systems blog, [systems saturday](https://systemssaturday.substack.com/).
 
 you can reach me at `x@gmail.com` where `x = ashishjayamohan`
 
@@ -21,6 +21,9 @@ you can reach me at `x@gmail.com` where `x = ashishjayamohan`
 - [statistics](https://ashishjayamohan.github.io/statistics.html)
 
 ## writing
+- [systems saturday 3: coordination in distributed systems](https://systemssaturday.substack.com/p/systems-saturday-3-coordination-in)
+- [systems saturday 2: kafka](https://systemssaturday.substack.com/p/systems-saturday-2-kafka)
+- [systems saturday 1: why latency lies to you](https://systemssaturday.substack.com/p/systems-saturday-1-why-latency-lies)
 - [systems optimizatons](https://ashishjayamohan.github.io/files/general/optimizers.html)
 - [clos topologies and ecmp](https://ashishjayamohan.github.io/files/general/topologies.html)
 - [learnings from a year of college](https://ashishjayamohan.github.io/files/general/firstyear.html)
