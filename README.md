@@ -1,6 +1,6 @@
 # ashish jayamohan
 ## about me
-i'm ashish jayamohan, a student at uc san diego. i'm interested, broadly, in computer science, mathematics, pure sciences, and the intersection of these fields. recently, i've been interested in databases and distributed systems at large. i currently work at [perplexity](https://www.perplexity.ai/) i previously worked at amazon. i also currently run a weekly systems blog, [systems saturday](https://systemssaturday.substack.com/).
+i'm ashish jayamohan, a student at uc san diego. i'm interested, broadly, in computer science, mathematics, pure sciences, and the intersection of these fields. recently, i've been interested in databases and distributed systems at large. i currently work at [perplexity](https://www.perplexity.ai/) and i previously worked at amazon. i also currently run a weekly systems blog, [systems saturday](https://systemssaturday.substack.com/).
 
 you can reach me at `x@gmail.com` where `x = ashishjayamohan`
 
